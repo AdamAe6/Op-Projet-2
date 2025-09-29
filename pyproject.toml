@@ -1,0 +1,14 @@
+[project]
+name = "oc-projet-1"
+version = "0.1.0"
+
+[tool.pip]
+dependencies = [
+  "jupyterlab",
+  "ipykernel",
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "seaborn",
+  "scikit-learn"
+]
